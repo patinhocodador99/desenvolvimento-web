@@ -76,7 +76,7 @@ ul {
 }
 
 .social-list a {
-    color: #333;
+    color: hsl(223, 100%, 44%);
     text-decoration: none;
     font-weight: bold;
 }
