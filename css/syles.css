@@ -1,47 +1,3 @@
-body {
-    margin: 0;
-    background-color: #f3f3f3;
-    color: #333;
-    font-family: Arial, Helvetica, sans-serif;
-}
-
-body > header {
-    background-color: #173b82;
-    color:#fff;
-    text-align: center;
-    padding: 25px;
-}
-
-body > header > h1{
-    font-size: 2em;
-    margin-bottom: 5px;
-}
-
-body > header > p {
-    padding: 10px;
-}
-
-nav > ul {
-    padding: 0;
-    list-style: none;
-}
-
-nav li {
-    display: inline;
-    margin: 10px;
-}
-
-nav a {
-    color: #fff;
-    text-decoration: none;
-    font-weight: bold;
-}
-
-nav a:hover{
-    text-decoration: underline;
-    color: yellow;
-}
-
 main {
     max-width: 960px;
     margin: 30px auto;
@@ -107,13 +63,6 @@ article footer {
     font-size: 14px;
     margin-top: 20px;
     padding-top: 10px;
-}
-
-body > footer {
-    background-color: #102563;
-    color: #fff;
-    padding: 20px;
-    text-align: center;
 }
 
 
